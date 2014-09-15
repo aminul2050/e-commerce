@@ -28,3 +28,12 @@
 
 # "temporary" build files
 /target
+######################
+# Intellij
+######################
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
